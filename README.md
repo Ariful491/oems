@@ -1,6 +1,6 @@
 ##installation
 ````
-  git clone https://github.com/Ariful491/assignment.git
+  git clone https://github.com/Ariful491/oems.git
   
   ````
 ````
